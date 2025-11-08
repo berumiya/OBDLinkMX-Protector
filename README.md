@@ -1,4 +1,4 @@
-# OBDLink MX Pairing Button Protector
+# OBDLink MX+ Pairing Button Protector
 
 
 <a href="images/Protector_Printed_Example.jpg"  style="display: inline-block; margin-right: 10px;">
@@ -9,6 +9,7 @@
 </a>
 
 
+日本語はこちらから [README.ja.md](README.ja.md) for Japanese users.
 
 ## Overview
 This is a **3D-printable protector** designed for **OBDLink MX+** to prevent the pairing button from physical damage and breakage.  
