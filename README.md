@@ -59,9 +59,9 @@ This project was created by **berumiya** from Japan.
 I enjoy customizing the electronics of my Mazda Roadster (MX-5 Miata, ND model).  
 You can find more about my work on my SNS profile (all in Japanese): [minkara.carview.co.jp](https://minkara.carview.co.jp/userid/615186/car/3285399/profile.aspx)
 
-<a href="images/Author_berumiya_1.JPG"  style="display: inline-block; margin-right: 20px;">
-  <img src="images/Author_berumiya_1.JPG" alt="Author berumiya" height="200"/>
+<a href="images/Author_berumiya_1.jpg"  style="display: inline-block; margin-right: 20px;">
+  <img src="images/Author_berumiya_1.jpg" alt="Author berumiya" height="200"/>
 </a>
-<a href="images/Author_berumiya_2.JPG" style="display: inline-block;">
-  <img src="images/Author_berumiya_2.JPG" alt="Author berumiya" height="200"/>
+<a href="images/Author_berumiya_2.jpg" style="display: inline-block;">
+  <img src="images/Author_berumiya_2.jpg" alt="Author berumiya" height="200"/>
 </a>
