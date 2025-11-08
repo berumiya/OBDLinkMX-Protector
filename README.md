@@ -36,6 +36,9 @@ I’m sharing it in appreciation for their outstanding service and to help preve
 | Orientation | Print with the face down |
 | Supports | None required |
 
+You may send the file to a 3D printing service if you don't have a 3D printer.  
+This is allowed under the MIT License.
+
 ## Dimensions
 The design was tested and confirmed to fit the **OBDLink MX+**.  
 It has not been tested with other OBDLink models.
