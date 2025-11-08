@@ -56,7 +56,7 @@ This project is an independent, user-created accessory and is **not affiliated w
 
 ## About the Author
 This project was created by **berumiya** from Japan.  
-I enjoy customizing the electronics of my Mazda Roadster (MX-5 Miata, ND model).  
+I enjoy customizing the electronics of my Mazda Roadster MY2022 "990S" (MX-5 Miata, ND model).  
 You can find more about my work on my SNS profile (all in Japanese): [minkara.carview.co.jp](https://minkara.carview.co.jp/userid/615186/car/3285399/profile.aspx)
 
 <a href="images/Author_berumiya_1.jpg"  style="display: inline-block; margin-right: 20px;">
